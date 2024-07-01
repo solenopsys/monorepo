@@ -14,7 +14,7 @@ requires a thickness of 0.8 and a double-sided board based on fiberglass; hence,
 board.
 
 **Module example**
-![module.svg](./content/images/combinatorics/module.JPG)
+![module.svg](./content/images/Combinator/module.JPG)
 
 **Power module example**
-![module.svg](./content/images/combinatorics/module-assembly.JPG)
+![module.svg](./content/images/Combinator/module-assembly.JPG)

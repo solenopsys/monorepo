@@ -1,5 +1,5 @@
-# Combinatorics
+# Combinator
 
 
 
-![array.svg](./content/images/combinatorics/array.JPG)
+![array.svg](./content/images/Combinator/array.JPG)

@@ -1,3 +1,3 @@
 # Connectors
 
-![iusb.svg](./content/images/combinatorics/iusb.JPG)
+![iusb.svg](./content/images/Combinator/iusb.JPG)

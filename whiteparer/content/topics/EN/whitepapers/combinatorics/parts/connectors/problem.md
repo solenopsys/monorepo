@@ -1,6 +1,6 @@
 ### Why do we need to solve the problem of industrial connectors?
 
-Combinatorics is a framework for creating digital factories, and any digital factory includes thousands of
+Combinator is a framework for creating digital factories, and any digital factory includes thousands of
 interconnected modules. Therefore, without solving the issue of standardized connectors, it is challenging to achieve a
 high-quality implementation of digital factory technology.
 

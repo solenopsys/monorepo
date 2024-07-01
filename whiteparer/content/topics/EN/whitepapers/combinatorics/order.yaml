@@ -1,7 +1,7 @@
 include:
-  combinatorics: What is Combinatorics?
+  Combinator: What is Combinator?
   name: Why such a name?
   conception: "What is the general concept?"
   advantages: "What are the advantages?"
-  architect: "Description of Combinatorics architecture?"
+  architect: "Description of Combinator architecture?"
   parts: "What are the parts?"

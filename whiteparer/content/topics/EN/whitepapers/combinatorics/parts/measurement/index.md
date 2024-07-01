@@ -7,4 +7,4 @@ Therefore, technological startups need to conduct scientific research and develo
 To assess the results of development, any tests or scientific research require measurements. In modern conditions,
 experiments and measurements can and should be fully automated.
 
-The Combinatorics framework provides modules for the automation of measurements and experiments.
+The Combinator framework provides modules for the automation of measurements and experiments.

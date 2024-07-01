@@ -1,4 +1,4 @@
-### Advantages of Using Combinatorics
+### Advantages of Using Combinator
 
 - Low cost of equipment
 - Easy integration of devices into a single system

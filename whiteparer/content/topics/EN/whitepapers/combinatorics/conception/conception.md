@@ -7,5 +7,5 @@ combination of high electrical power hardware and high-performance data processi
 The reason for the abundance of wires within control panels with machine controllers is the use of outdated standards
 and data transmission protocols.
 
-The Combinatorics framework introduces a new standard for expansion boards based on the M.2
+The Combinator framework introduces a new standard for expansion boards based on the M.2
 interface, allowing the elimination of numerous wires and equipping equipment with high-speed data communication lines.

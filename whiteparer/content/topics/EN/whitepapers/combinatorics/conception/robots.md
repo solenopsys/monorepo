@@ -16,5 +16,5 @@ various types of equipment, with the main difference lying in the software. Deve
 for different types of equipment is economically inefficient compared to using universal modules with specialized
 software.
 
-Combinatorics is an innovative framework that allows for the creation of diverse equipment, tightly integrated with
+Combinator is an innovative framework that allows for the creation of diverse equipment, tightly integrated with
 computer systems, on a common elemental base, opening new horizons in industrial automation.

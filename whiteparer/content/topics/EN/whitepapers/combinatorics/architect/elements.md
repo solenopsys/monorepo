@@ -1,4 +1,4 @@
-### Combinatorics Framework Components
+### Combinator Framework Components
 
 - **Electronics** - electronic modules
   - Hubs - modules that combine other modules
