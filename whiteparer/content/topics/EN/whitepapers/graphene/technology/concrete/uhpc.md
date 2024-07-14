@@ -4,12 +4,12 @@ UHPC is an ultra-high-strength concrete that exhibits high compressive and tensi
 
 #### Technologies we will use:
 
-- Robot assembly. Since our standard elements will be used in thousands, we will produce them with the help of robots.
-- Cutting of carbon fiber before concrete production will be done using a carbon fiber thread for precise production of carbon fiber with the use of CNC cutting. This will allow precise control of the fiber length and percentage composition of lengths, as well as guarantee the quality of the initial fiber.
-- Ultrasonic mixing of carbon fibers with a plasticizer. The peculiarity of carbon fiber is that it has a high surface tension coefficient, which makes fiber mixing difficult. Carbon fibers also have ten times more fibers per thread compared to glass fibers.
-- Ultrasonic compaction of the concrete mixture.
-- Vacuum treatment of concrete for rapid degassing and increased strength.
-- Rapid hardening of concrete using autoclave heating significantly enhances its strength and  accelerating the process when using mass production.
+- **Robot assembly**. Since our standard elements will be used in thousands, we will produce them with the help of robots.
+- **Cutting of carbon fiber in place** before concrete production will be done using a carbon fiber thread for precise production of carbon fiber with the use of CNC cutting. This will allow precise control of the fiber length and percentage composition of lengths, as well as guarantee the quality of the initial fiber.
+- **Ultrasonic mixing** of carbon fibers with a plasticizer. The peculiarity of carbon fiber is that it has a high surface tension coefficient, which makes fiber mixing difficult. Carbon fibers also have ten times more fibers per thread compared to glass fibers.
+- **Ultrasonic compaction** of the concrete mixture.
+- **Vacuum treatment** of concrete for rapid degassing and increased strength.
+- **Rapid hardening** of concrete using autoclave heating significantly enhances its strength and  accelerating the process when using mass production.
 
 #### Applications of UHPC:
 
